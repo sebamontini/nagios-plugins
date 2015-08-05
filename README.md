@@ -16,12 +16,6 @@ Professional Services for support, additional programs and upgrades to existing 
 On-site contracts are usually reserved for Big Data projects.
 
 
-Hari Sekhon
-
-Big Data Contractor
-
-http://www.linkedin.com/in/harisekhon
-
 
 ### A Sample of cool Nagios Plugins in this collection ###
 
